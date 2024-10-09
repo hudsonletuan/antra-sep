@@ -1,0 +1,14 @@
+D:\HUDSON\ANTRA\C SHARP\ConsoleApp\02UnderstandingTypes\bin\Debug\net8.0\02UnderstandingTypes.exe
+D:\HUDSON\ANTRA\C SHARP\ConsoleApp\02UnderstandingTypes\bin\Debug\net8.0\02UnderstandingTypes.deps.json
+D:\HUDSON\ANTRA\C SHARP\ConsoleApp\02UnderstandingTypes\bin\Debug\net8.0\02UnderstandingTypes.runtimeconfig.json
+D:\HUDSON\ANTRA\C SHARP\ConsoleApp\02UnderstandingTypes\bin\Debug\net8.0\02UnderstandingTypes.dll
+D:\HUDSON\ANTRA\C SHARP\ConsoleApp\02UnderstandingTypes\bin\Debug\net8.0\02UnderstandingTypes.pdb
+D:\HUDSON\ANTRA\C SHARP\ConsoleApp\02UnderstandingTypes\obj\Debug\net8.0\02UnderstandingTypes.GeneratedMSBuildEditorConfig.editorconfig
+D:\HUDSON\ANTRA\C SHARP\ConsoleApp\02UnderstandingTypes\obj\Debug\net8.0\02UnderstandingTypes.AssemblyInfoInputs.cache
+D:\HUDSON\ANTRA\C SHARP\ConsoleApp\02UnderstandingTypes\obj\Debug\net8.0\02UnderstandingTypes.AssemblyInfo.cs
+D:\HUDSON\ANTRA\C SHARP\ConsoleApp\02UnderstandingTypes\obj\Debug\net8.0\02UnderstandingTypes.csproj.CoreCompileInputs.cache
+D:\HUDSON\ANTRA\C SHARP\ConsoleApp\02UnderstandingTypes\obj\Debug\net8.0\02UnderstandingTypes.dll
+D:\HUDSON\ANTRA\C SHARP\ConsoleApp\02UnderstandingTypes\obj\Debug\net8.0\refint\02UnderstandingTypes.dll
+D:\HUDSON\ANTRA\C SHARP\ConsoleApp\02UnderstandingTypes\obj\Debug\net8.0\02UnderstandingTypes.pdb
+D:\HUDSON\ANTRA\C SHARP\ConsoleApp\02UnderstandingTypes\obj\Debug\net8.0\02UnderstandingTypes.genruntimeconfig.cache
+D:\HUDSON\ANTRA\C SHARP\ConsoleApp\02UnderstandingTypes\obj\Debug\net8.0\ref\02UnderstandingTypes.dll

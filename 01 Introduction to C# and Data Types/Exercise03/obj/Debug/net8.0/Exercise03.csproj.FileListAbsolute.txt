@@ -1,0 +1,14 @@
+D:\HUDSON\ANTRA\C SHARP\ConsoleApp\Exercise03\bin\Debug\net8.0\Exercise03.exe
+D:\HUDSON\ANTRA\C SHARP\ConsoleApp\Exercise03\bin\Debug\net8.0\Exercise03.deps.json
+D:\HUDSON\ANTRA\C SHARP\ConsoleApp\Exercise03\bin\Debug\net8.0\Exercise03.runtimeconfig.json
+D:\HUDSON\ANTRA\C SHARP\ConsoleApp\Exercise03\bin\Debug\net8.0\Exercise03.dll
+D:\HUDSON\ANTRA\C SHARP\ConsoleApp\Exercise03\bin\Debug\net8.0\Exercise03.pdb
+D:\HUDSON\ANTRA\C SHARP\ConsoleApp\Exercise03\obj\Debug\net8.0\Exercise03.GeneratedMSBuildEditorConfig.editorconfig
+D:\HUDSON\ANTRA\C SHARP\ConsoleApp\Exercise03\obj\Debug\net8.0\Exercise03.AssemblyInfoInputs.cache
+D:\HUDSON\ANTRA\C SHARP\ConsoleApp\Exercise03\obj\Debug\net8.0\Exercise03.AssemblyInfo.cs
+D:\HUDSON\ANTRA\C SHARP\ConsoleApp\Exercise03\obj\Debug\net8.0\Exercise03.csproj.CoreCompileInputs.cache
+D:\HUDSON\ANTRA\C SHARP\ConsoleApp\Exercise03\obj\Debug\net8.0\Exercise03.dll
+D:\HUDSON\ANTRA\C SHARP\ConsoleApp\Exercise03\obj\Debug\net8.0\refint\Exercise03.dll
+D:\HUDSON\ANTRA\C SHARP\ConsoleApp\Exercise03\obj\Debug\net8.0\Exercise03.pdb
+D:\HUDSON\ANTRA\C SHARP\ConsoleApp\Exercise03\obj\Debug\net8.0\Exercise03.genruntimeconfig.cache
+D:\HUDSON\ANTRA\C SHARP\ConsoleApp\Exercise03\obj\Debug\net8.0\ref\Exercise03.dll

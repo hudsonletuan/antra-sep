@@ -1,0 +1,56 @@
+﻿01 Introduction to C# and Data Types
+Understanding Data Types
+
+1. What type would you choose for the following “numbers”?
+- A person's telephone number: String
+- A person’s height:	Float (or Decimal)
+- A person’s age:	Integer
+- A person’s gender:	Categorical/String
+- A person’s salary:	Float (or Decimal)
+- A book’s ISBN:	String
+- A book’s price:	Float (or Decimal)
+- A book’s shipping weight:	Float (or Decimal)
+- A country’s population:	Integer
+- The number of stars in the universe:	Integer
+- Number of employees in UK businesses:	Integer
+
+2. What are the difference between value type and reference type variables? What is boxing and unboxing?
+- Difference between value type and reference type
+Storage:
+    + Value Type: Stores the actual data directly.
+    + Reference Type: Stores a reference (or pointer) to the data.
+Memory Location:
+    + Value Type: Allocated on the stack.
+    + Reference Type: Allocated on the heap.
+Default Value:
+    + Value Type: Has a default value (0, false, etc.).
+    + Reference Type: Default is null.
+Copy Behavior:
+    + Value Type: Copies the actual value when assigned or passed.
+    + Reference Type: Copies the reference; change affect the original object.
+Examples:
+    + Value Type: int, float, char, struct.
+    + Reference Type: class, string, array.
+    
+- Boxing and Unboxing
+    + Boxing: The process of converting a value type to a reference type. This involves wrapping the value type inside an object so it can be treated as an object.
+    + Unboxing: The reverse process of converting a reference type back to a value type. This requires casting the object back to its original value type.
+    
+3. What is meant by the terms managed resource and unmanaged resource in .NET?
+Memory Management:
+    + Managed Resource: Handled by Garbage Collector.
+    + Unmanaged Resource: Manually managed by developer.
+Lifetime Control:
+    + Managed Resource: Automatic.
+    + Unmanaged Resource: Requires explicit cleanup.
+Performance Overhead:
+    + Managed Resource: Some overhead due to Garbage Collector.
+    + Unmanaged Resource: Usually faster but risk of leaks.
+
+4. What's the purpose of Garbage Collector in .NET?
+- Automatic Memory Management
+- Memory Reclamation
+- Performance Optimization
+- Generational Collection
+- Thread Safety
+- Finalization Support

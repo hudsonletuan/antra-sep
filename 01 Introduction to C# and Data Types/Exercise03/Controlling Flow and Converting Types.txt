@@ -1,0 +1,39 @@
+﻿01 Introduction to C# and Data Types
+Controlling Flow and Converting Types
+
+1. What happens when you divide an int variable by 0?
+Dividing an int variable by 0 results in a DivideByZeroException at runtime.
+
+2. What happens when you divide a double variable by 0?
+Dividing a double variable by 0 does not throw an exception. Instead, it results in Infinity or -Infinity or NaN.
+
+3. What happens when you overflow an int variable, that is, set it to a value beyond its range?
+It wraps around to the minimum value in unchecked contexts. In checked contexts, it throws an OverflowException.
+
+4. What is the difference between x = y++; and x = ++y;?
+x = y++;: This assigns the current value of y to x, then increments y. So, x gets the original value of y.
+x = ++y;: This increments y, then assigns the new value of y to x. So, both x and y end up with the incremented value.
+
+5. What is the difference between break, continue, and return when used inside a loop statement?
+* break: Exits the loop entirely and continues execution after the loop.
+* continue: Skips the remaining code in the current iteration of the loop and proceeds to the next iteration.
+* return: Exits from the current method entirely, returning control to the calling method.
+
+6. What are the three parts of a for statement and which of them are required?
+* Initialization: Sets up a counter variable (int i = 0;)
+* Condition: Determines whether to continue looping (i < 10;)
+* Increment/Decrement: Updates the counter variable (i++)
+Only the condition part is required; initialization and increment/decrement can be omitted but must have semicolons.
+
+7. What is the difference between the = and == operators?
+= (Assignment Operator): Used to assign a value to a variable (x = 5;)
+== (Equality Operator): Used to compare two values for equality (if (x == 5))
+
+8. Does the following statement compile? for ( ; true; ) ;
+Yes, it compiles. The for loop has an empty initialization and increment/decrement sections, but the condition is always true.
+
+9. What does the underscore _ represent in a switch expression?
+The underscore _ represents the default case in a switch expression, which is executed when none of the other cases match.
+
+10. What interface must an object implement to be enumerated over by using the foreach statement?
+An object must implement the IEnumerable interface (or its generic counterpart, IEnumerable<T>) to be enumerated over by using the foreach statement.
