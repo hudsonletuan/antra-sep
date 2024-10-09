@@ -1,0 +1,14 @@
+D:\HUDSON\ANTRA\C SHARP\ConsoleApp\ArraysAndStrings\bin\Debug\net8.0\ArraysAndStrings.exe
+D:\HUDSON\ANTRA\C SHARP\ConsoleApp\ArraysAndStrings\bin\Debug\net8.0\ArraysAndStrings.deps.json
+D:\HUDSON\ANTRA\C SHARP\ConsoleApp\ArraysAndStrings\bin\Debug\net8.0\ArraysAndStrings.runtimeconfig.json
+D:\HUDSON\ANTRA\C SHARP\ConsoleApp\ArraysAndStrings\bin\Debug\net8.0\ArraysAndStrings.dll
+D:\HUDSON\ANTRA\C SHARP\ConsoleApp\ArraysAndStrings\bin\Debug\net8.0\ArraysAndStrings.pdb
+D:\HUDSON\ANTRA\C SHARP\ConsoleApp\ArraysAndStrings\obj\Debug\net8.0\ArraysAndStrings.GeneratedMSBuildEditorConfig.editorconfig
+D:\HUDSON\ANTRA\C SHARP\ConsoleApp\ArraysAndStrings\obj\Debug\net8.0\ArraysAndStrings.AssemblyInfoInputs.cache
+D:\HUDSON\ANTRA\C SHARP\ConsoleApp\ArraysAndStrings\obj\Debug\net8.0\ArraysAndStrings.AssemblyInfo.cs
+D:\HUDSON\ANTRA\C SHARP\ConsoleApp\ArraysAndStrings\obj\Debug\net8.0\ArraysAndStrings.csproj.CoreCompileInputs.cache
+D:\HUDSON\ANTRA\C SHARP\ConsoleApp\ArraysAndStrings\obj\Debug\net8.0\ArraysAndStrings.dll
+D:\HUDSON\ANTRA\C SHARP\ConsoleApp\ArraysAndStrings\obj\Debug\net8.0\refint\ArraysAndStrings.dll
+D:\HUDSON\ANTRA\C SHARP\ConsoleApp\ArraysAndStrings\obj\Debug\net8.0\ArraysAndStrings.pdb
+D:\HUDSON\ANTRA\C SHARP\ConsoleApp\ArraysAndStrings\obj\Debug\net8.0\ArraysAndStrings.genruntimeconfig.cache
+D:\HUDSON\ANTRA\C SHARP\ConsoleApp\ArraysAndStrings\obj\Debug\net8.0\ref\ArraysAndStrings.dll
